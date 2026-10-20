@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-extra-lam.png" group-title="⚽ Deportes - ESPN",ESPN (Ahorro de Datos)
-http://tv.m3uts.xyz/stream/secure/QT_RsUTe/1113.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png" group-title="⚽ Deportes - ESPN",ESPN 1 | Argentina
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1132.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png" group-title="⚽ Deportes - ESPN",ESPN 1 | Chile
@@ -11,7 +9,6 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1107.m3u8
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/401.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png" group-title="⚽ Deportes - ESPN",ESPN 1 | Sur
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/368.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png" group-title="⚽ Deportes - ESPN",ESPN 2 HD
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/375.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png" group-title="⚽ Deportes - ESPN",ESPN 2 | Mexico
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/378.m3u8
@@ -41,7 +38,6 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1161.m3u8
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/404.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-extra-lam.png" group-title="⚽ Deportes - ESPN",ESPN Plus HD
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/405.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-premium-lam.png" group-title="⚽ Deportes - ESPN",ESPN Premium HD
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/408.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png" group-title="⚽ Deportes - DSports",DSports
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/312.m3u8
